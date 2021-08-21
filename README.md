@@ -6,7 +6,7 @@
 
 *Please note that the code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
 
-## Below is the *SPEC* that my Team of 5 built for the Microsoft Internship
+## Below is the *SPEC* that my Team of 5 wrote for our product during the Microsoft Internship
 
 ## Problem Statement
 
