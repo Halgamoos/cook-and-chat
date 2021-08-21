@@ -1,5 +1,13 @@
 # Cook&Chat
 
+## During my Microsoft SWE internship, my team of 5 built this Web app! We designed and implemented a globe API, login, signup, recipe card feed, and saved events page for cooking users. 
+
+**Technologies Used: Javascript, React, React Bootstrap, Git, Node.js, HTML, CSS.**
+
+*Please note that the code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
+
+## Below is the *SPEC* that my Team of 5 built for the Microsoft Internship
+
 ## Problem Statement
 
 Many people do not have the opportunity or the desire to engage with diverse groups of people. This absence of interaction leads to the reinforcement of unnecessary divisions, lack of empathy for others, and the perpetuation of harmful stereotypes. How might we give these individuals more opportunities to establish genuine and personal connections with people from different backgrounds and experiences to foster a sense of belonging and understanding within and between communities?
