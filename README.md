@@ -1,10 +1,10 @@
 # Cook&Chat
+*Please note that the code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
 
 **During my Microsoft SWE internship, my team of 5 built this Web app! We designed and implemented a globe API, login, signup, recipe card feed, and saved events page for cooking users.**
 
 **Technologies Used: Javascript, React, React Bootstrap, Git, Node.js, HTML, CSS.**
 
-*Please note that the code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
 
 ## Below is the *SPEC* that my Team of 5 wrote for our product during our Internship
 
