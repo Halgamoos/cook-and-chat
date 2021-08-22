@@ -1,5 +1,5 @@
 # Cook&Chat
-*NOTE: that the code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
+*NOTE: The code source is not provided since our app is Microsoft property. However, permission was given to show screenshots of our web app!* 
 
 **During my Microsoft SWE internship, my team of 5 built this Web app! We designed and implemented a globe API, login, signup, recipe card feed, and saved events page for cooking users.**
 
