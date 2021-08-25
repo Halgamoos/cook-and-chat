@@ -3,6 +3,8 @@
 
 **During my Microsoft SWE internship, my team of 5 built this Web app! We designed and implemented a globe API, login, signup, recipe card feed, and saved events page for cooking users.**
 
+**My team focused on building empathy between communities via cooking and recipes**
+
 **Technologies Used: Javascript, React, React Bootstrap, Git, Node.js, HTML, CSS.**
 
 
