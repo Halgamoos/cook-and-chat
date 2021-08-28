@@ -7,6 +7,16 @@
 
 **Technologies Used: Javascript, React, React Bootstrap, Git, Node.js, HTML, CSS.**
 
+| Log In | Sign Up | Feed | Globe API |
+|---------|--------|------|-----------|
+| <img width="324" alt="Screen Shot 2021-08-28 at 12 54 09 AM" src="https://user-images.githubusercontent.com/24259728/131206792-71e0a71a-0098-447b-982f-dc5fd76b575f.png"> | <img width="325" alt="Screen Shot 2021-08-28 at 12 54 24 AM" src="https://user-images.githubusercontent.com/24259728/131206807-983b4694-e0bf-49c0-b4bd-41dfc48512e5.png"> | <img width="319" alt="Screen Shot 2021-08-28 at 12 54 42 AM" src="https://user-images.githubusercontent.com/24259728/131206819-b01a8b93-1934-440b-811b-f6d62fa6cff7.png"> | ![Uploading Screen Shot 2021-08-28 at 12.54.42 AM.png…]() |
+| Feed Form | Feed Card Expand View | Saved Events Before | Saved Events After |
+|---------|--------|------|-----------|
+|<img width="320" alt="Screen Shot 2021-08-28 at 12 56 23 AM" src="https://user-images.githubusercontent.com/24259728/131206933-5b51f1da-af5f-4d23-886c-7a60b5d4b503.png"> | <img width="323" alt="Screen Shot 2021-08-28 at 12 56 58 AM" src="https://user-images.githubusercontent.com/24259728/131206945-7ffa822a-2d63-4ce3-916b-32ffc7ba754a.png"> | <img width="322" alt="Screen Shot 2021-08-28 at 12 55 36 AM" src="https://user-images.githubusercontent.com/24259728/131206957-c4581b94-c307-4795-bf67-9323a414bdf2.png"> | <img width="321" alt="Screen Shot 2021-08-28 at 12 57 15 AM" src="https://user-images.githubusercontent.com/24259728/131206964-83283d45-7357-4458-a025-c57af0635960.png"> |
+
+
+
+
 
 ## Below is the *SPEC* that my Team of 5 wrote for our product during our Internship
 
